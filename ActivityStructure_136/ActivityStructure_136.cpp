@@ -9,3 +9,4 @@ struct mahasiswa
 	int umur;
 };
 
+
